@@ -52,9 +52,7 @@ const questions = [
         message: 'Please provide your email address.'
     }
 ];
-inquirer.prompt(questions).then((answers) => {
-    console.log('Your README data:', answers);
-});
+
 
 //function to write README file
 function writeToFile(fileName, data) {
