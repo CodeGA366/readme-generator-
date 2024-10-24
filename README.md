@@ -17,6 +17,7 @@
 
     ## Usage
     You would use this Application to generate a readme file using the command line in your terminal.
+    [![Watch the video](<iframe src="https://drive.google.com/file/d/1xf8dMorz2GCmTZvwPTvqsbAKORmPq_IO/preview" width="640" height="480"></iframe>)]
 
     ## License
     This project is licensed under the MIT license.
